@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tahasiddiquiii
+- 👋 Hi, I’m Taha Siddiqui
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java, react, node js, mysql, spring frameworks for bulding up my career in fullstack web development
 
