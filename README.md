@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Taha Siddiqui
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java, react, node js, mysql, spring frameworks, liferay, UI/UX for bulding up my career in fullstack web development
+- 👋 Hi, I’m Taha Siddiqui.
+- 👀 I’m interested in full-stack web development.
+- 🌱 I’m currently working on projects which includes java, reactjs, node js, mysql, spring MVC, spring frameworks, liferay, UI/UX.
+- 🍁 i am a web development enthusiast who likes to eplore and learn from the indutrial level work.
 
 
 <!---
