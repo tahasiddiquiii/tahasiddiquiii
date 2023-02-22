@@ -41,7 +41,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 - 📫 How to reach me **siddiquitaha72@gmail.com**
 
-- 📄 Know about my experiences [RESUME](./documents/TahaSiddiquiResume.pdf)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ZbW90l9ucavgrpBGk0bHCRCmQb2CgCTQ/view?usp=sharing)
 
 - ⚡ **Eat Sleep Hustle repeat**
 
