@@ -65,11 +65,11 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p><img width="90%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahasiddiquiii&show_icons=true&locale=en&layout=compact" alt="tahasiddiquiii" /></p>
+<p><img width="90%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahasiddiquiii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&layout=compact" alt="tahasiddiquiii" /></p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p>&nbsp;<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=tahasiddiquiii&show_icons=true&locale=en" alt="tahasiddiquiii" /></p>
+<p>&nbsp;<img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?username=tahasiddiquiii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat&layout=compact" alt="tahasiddiquiii" /></p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p><img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahasiddiquiii&" alt="tahasiddiquiii" /></p>
+<p><img width="90%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahasiddiquiii&theme=dark&background=0d1117&" alt="tahasiddiquiii" /></p>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
