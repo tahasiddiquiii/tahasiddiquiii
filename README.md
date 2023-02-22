@@ -18,9 +18,9 @@
 
 My field of Interest's are building new Web Technologies and Products. and also in areas related to Deep Learning and Natural Launguage Processing.
 
-Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js
+Whenever possible, I also apply my passion for developing products with java and Modern Library and Frameworks like Flutter, React.js
 
-I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.</p>
+I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project with team collaboration.</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
